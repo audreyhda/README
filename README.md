@@ -14,8 +14,6 @@ Welcome to my GitHub profile! I’m Audrey, a developer passionate about mobile 
 
 - **[Challengo](https://github.com/audreyhda/Challengo)** - A Swift-based challenge-tracking app that supports user goals, with added features to enhance tracking capabilities.
 - **[mc3](https://github.com/audreyhda/mc3)** - Contributions to this project focus on expanding app functionalities and refining user interfaces.
-- **[Another Project 1](https://github.com/audreyhda/project1)** - A brief description of the project, focusing on its purpose and technologies used.
-- **[Another Project 2](https://github.com/audreyhda/project2)** - Another app or tool with a focus on personal development and wellness.
 
 ### 🌱 Currently Exploring
 
