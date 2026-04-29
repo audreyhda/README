@@ -1,5 +1,42 @@
-# README
-https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
+# README<!-- Top GIF banner -->
+
+<p align="center">
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+</p>
+
+<!-- Divider image -->
+
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/2b17cc85-5114-441a-a7de-840db6eb1838" width="468" />
+
+</p>
+
+<!-- Wide banner -->
+
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/52f4c43c-3a00-423e-8cb0-4748487bc842" width="100%" />
+
+</p>
+
+<!-- Second GIF -->
+
+<p align="center">
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" />
+
+</p>
+
+<!-- Profile image -->
+
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/f1c9c2e9-7a41-4cfd-b3e8-b7c5ba01c6ad" width="200" />
+
+</p>
 
 # 👋 Hi, I'm Audrey
 
