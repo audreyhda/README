@@ -6,23 +6,8 @@
 
 </p>
 
-<!-- Divider image -->
-
-<p align="center">
-
-  <img src="https://github.com/user-attachments/assets/2b17cc85-5114-441a-a7de-840db6eb1838" width="468" />
-
-</p>
-
 <!-- Wide banner -->
 
-<p align="center">
-
-  <img src="https://github.com/user-attachments/assets/52f4c43c-3a00-423e-8cb0-4748487bc842" width="100%" />
-
-</p>
-
-<!-- Second GIF -->
 
 <p align="center">
 
@@ -34,7 +19,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/user-attachments/assets/f1c9c2e9-7a41-4cfd-b3e8-b7c5ba01c6ad" width="200" />
+ https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif
 
 </p>
 
