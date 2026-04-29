@@ -37,9 +37,4 @@ Currently delving deeper into Swift and iOS frameworks, always on the lookout fo
 Thank you for visiting! Feel free to explore my projects and connect if you're interested in collaborating.
 
 
-<p align="center">
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%" />
-
-</p>
 
