@@ -1,11 +1,4 @@
 # README<!-- Top GIF banner -->
-
-<p align="center">
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
-
-</p>
-
 <!-- Wide banner -->
 
 
@@ -15,15 +8,13 @@
 
 </p>
 
-<!-- Profile image -->
+# 👋 Hi, I'm Audrey
 
 <p align="center">
 
- https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif
+  <img src=" https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100%" />
 
 </p>
-
-# 👋 Hi, I'm Audrey
 
 Welcome to my GitHub profile! I’m Audrey, a developer passionate about mobile app development with a focus on iOS and Swift. I enjoy creating and contributing to projects that enhance functionality and user experience.
 
@@ -44,3 +35,11 @@ Currently delving deeper into Swift and iOS frameworks, always on the lookout fo
 ---
 
 Thank you for visiting! Feel free to explore my projects and connect if you're interested in collaborating.
+
+
+<p align="center">
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+</p>
+
