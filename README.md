@@ -7,15 +7,12 @@
 
 # Hi, I'm Audrey 👋
 
+### iOS Developer · 
 <p align="center">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="15%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="5%" />
 
 </p>
-
-
-
-### iOS Developer · 
 
 I build iOS apps — from SwiftUI prototypes to full-stack Swift applications with Vapor backends and MySQL databases. I discovered programming through the **Apple Foundation Program Advanced** at Simplon Paris and have been building ever since.
 
