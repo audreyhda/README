@@ -5,7 +5,7 @@
 
 </p>
 
-# Hi, I'm Audrey 👋
+# Hi, I'm Audrey
 
 ### iOS Developer  
 
@@ -47,14 +47,14 @@ C · Python · SQL · HTML/CSS/JavaScript · Flask · SQLite
 
 ## 🍎 iOS Projects
 
-### 🌱 [Carbon Tracker](https://github.com/audreyhda/CarbonTracker) &nbsp;·&nbsp; *CS50x Final Project*
+###  [Carbon Tracker](https://github.com/audreyhda/CarbonTracker) &nbsp;·&nbsp; *CS50x Final Project*
 > iOS app to track and reduce your personal carbon footprint.
 
 SwiftUI · Apple Foundation Models (iOS 26+) · Swift Charts · UserDefaults · On-device AI tips · Challenges system · Streak tracking
 
 ---
 
-### 💪 ZakFit &nbsp;·&nbsp; *Apple Foundation Program Advanced — Solo · Dec 2024*
+###  ZakFit &nbsp;·&nbsp; *Apple Foundation Program Advanced — Solo · Dec 2024*
 > Full-stack fitness & nutrition tracking app with cross-device sync.
 
 | | |
@@ -64,7 +64,7 @@ SwiftUI · Apple Foundation Models (iOS 26+) · Swift Charts · UserDefaults · 
 
 ---
 
-### 🎨 [Tag It](https://github.com/audreyhda/Tag-It) &nbsp;·&nbsp; *Mini Challenge 3 "Zeus" — Group · Sep–Oct 2024*
+###  [Tag It](https://github.com/audreyhda/Tag-It) &nbsp;·&nbsp; *Mini Challenge 3 "Zeus" — Group · Sep–Oct 2024*
 > Full-stack iOS app to discover, document, and geo-locate street art.
 
 | | |
@@ -76,28 +76,28 @@ SwiftUI · Apple Foundation Models (iOS 26+) · Swift Charts · UserDefaults · 
 
 ---
 
-### 💡 [Tips Top](https://github.com/audreyhda/Tips-Top) &nbsp;·&nbsp; *Nano Challenge 2 "Thetis" — Group · Aug–Sep 2024*
+###  [Tips Top](https://github.com/audreyhda/Tips-Top) &nbsp;·&nbsp; *Nano Challenge 2 "Thetis" — Group · Aug–Sep 2024*
 > iOS app that recommends iPhone feature videos based on user interests.
 
 SwiftUI · UIKit · MVVM · SOLID principles · HTTP/REST · URLSession · Stack navigation
 
 ---
 
-### 🌱 [Challengo](https://github.com/audreyhda/Challengo) &nbsp;·&nbsp; *Mini Challenge 1 "Chronos" + Nano Challenge 1 "Hephaestus" — Group · May–Jun 2024*
+###  [Challengo](https://github.com/audreyhda/Challengo) &nbsp;·&nbsp; *Mini Challenge 1 "Chronos" + Nano Challenge 1 "Hephaestus" — Group · May–Jun 2024*
 > Daily personal growth challenge app — built across two consecutive challenges.
 
 SwiftUI · ObservableObject · Swift Charts · OOP · DocC documentation · CBLD framework
 
 ---
 
-### 🎵 [Tracks (mc3)](https://github.com/audreyhda/mc3) &nbsp;·&nbsp; *Apple Developer Academy — Group*
+###  [Tracks (mc3)](https://github.com/audreyhda/mc3) &nbsp;·&nbsp; *Apple Developer Academy — Group*
 > iOS + watchOS app for music journey tracking, with a Widget and Watch companion.
 
 Swift · SwiftUI · watchOS · WidgetKit · WatchConnectivity · Localisation (EN / FR / IT)
 
 ---
 
-### 🃏 [ADICARD](https://github.com/audreyhda/ADICARD) &nbsp;·&nbsp; *Apple Developer Academy — Group*
+###  [ADICARD](https://github.com/audreyhda/ADICARD) &nbsp;·&nbsp; *Apple Developer Academy — Group*
 > iOS card-based app built as a group project during the Apple Developer Academy.
 
 Swift · SwiftUI · Unit tests (XCTest) · UI tests
@@ -115,28 +115,28 @@ Designed and secured the entire Node.js backend for an Angular frontend. Impleme
 
 ---
 
-### 🛍️ [P5 — Orinoco](https://github.com/audreyhda/P5-Orinoco) &nbsp;·&nbsp; *Build an e-commerce front-end in vanilla JavaScript*
+###  [P5 — Orinoco](https://github.com/audreyhda/P5-Orinoco) &nbsp;·&nbsp; *Build an e-commerce front-end in vanilla JavaScript*
 Built a complete front-end MVP for a single-product e-commerce site — product listing, product detail, cart with localStorage, order form with validation, and a confirmation page. Consumed a provided REST API using Promises and `fetch`.
 
 `JavaScript (vanilla)` `HTML` `CSS` `Node.js` `localStorage` `REST API`
 
 ---
 
-### 🦆 [P4 — La Chouette Agence](https://github.com/audreyhda/P4-LaChouette) &nbsp;·&nbsp; *Optimise an existing website's SEO and accessibility*
+###  [P4 — La Chouette Agence](https://github.com/audreyhda/P4-LaChouette) &nbsp;·&nbsp; *Optimise an existing website's SEO and accessibility*
 Audited an existing web agency site, identified 10 concrete SEO and accessibility improvements, applied them to the HTML/CSS source, and produced a before/after optimisation report with Lighthouse comparisons.
 
 `HTML` `CSS` `PHP` `SEO` `Accessibilité` `W3C` `Performance`
 
 ---
 
-### 🍽️ [P3 — Oh My Food](https://github.com/audreyhda/P3-OhmyFood) &nbsp;·&nbsp; *Dynamise a web page with CSS animations*
+###  [P3 — Oh My Food](https://github.com/audreyhda/P3-OhmyFood) &nbsp;·&nbsp; *Dynamise a web page with CSS animations*
 Integrated 4 restaurant menu pages for a Paris gastronomy app with a mobile-first approach. Built a CSS loading spinner, animated dish appearance on page load, animated like buttons, and hover effects — all in pure CSS/Sass, no JavaScript.
 
 `HTML` `Sass/SCSS` `CSS animations` `Mobile-first` `W3C`
 
 ---
 
-### 🏖️ [P2 — Reservia](https://github.com/audreyhda/P2-reservia) &nbsp;·&nbsp; *Integrate a responsive mockup in HTML & CSS*
+###  [P2 — Reservia](https://github.com/audreyhda/P2-reservia) &nbsp;·&nbsp; *Integrate a responsive mockup in HTML & CSS*
 Integrated a fully responsive travel planning website from a Figma mockup — no framework, pure HTML5 and CSS3. Implemented Flexbox layouts, responsive breakpoints for mobile/tablet/desktop, semantic HTML, Font Awesome icons, and W3C-validated code.
 
 `HTML5` `CSS3` `Flexbox` `Responsive design` `W3C` `Font Awesome`
