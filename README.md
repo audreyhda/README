@@ -7,7 +7,7 @@
 
 # Hi, I'm Audrey 👋
 
-### iOS Developer · 
+### iOS Developer  
 
 I build iOS apps — from SwiftUI prototypes to full-stack Swift applications with Vapor backends — and got my start as a web developer through OpenClassrooms. I discovered native iOS development through the **Apple Foundation Program Advanced** at Simplon Paris and the **Apple Developer Academy** in Naples Italy, and have been building ever since.
 
@@ -16,7 +16,7 @@ I build iOS apps — from SwiftUI prototypes to full-stack Swift applications wi
   <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="5%" />
 
 </p>
----
+
 
 ## 📚 Education
 
@@ -36,7 +36,7 @@ Web development path: HTML/CSS, responsive design, JavaScript, Node.js, Express,
 
 ---
 
-## 🎓 Learning
+## 🎓 Learning Projects
 
 ### [CS50x](https://github.com/audreyhda/CS50x) &nbsp;·&nbsp; *Harvard University*
 > My solutions to every problem set, lab, and final project from CS50x — Introduction to Computer Science.
