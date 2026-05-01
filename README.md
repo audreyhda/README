@@ -8,7 +8,7 @@
 
 </p>
 
-# 👋 Hi, I'm Audrey
+# Hi, I'm Audrey
 
 <p align="center">
 
