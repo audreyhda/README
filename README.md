@@ -9,7 +9,7 @@
 
 ### iOS Developer · 
 
-I build iOS apps — from SwiftUI prototypes to full-stack Swift applications with Vapor backends — and got my start as a web developer through OpenClassrooms. I discovered native iOS development through the **Apple Foundation Program Advanced** and the **Apple Developer Academy** at Simplon Paris, and have been building ever since.
+I build iOS apps — from SwiftUI prototypes to full-stack Swift applications with Vapor backends — and got my start as a web developer through OpenClassrooms. I discovered native iOS development through the **Apple Foundation Program Advanced** at Simplon Paris and the **Apple Developer Academy** in Naples Italy, and have been building ever since.
 
 <p align="center">
 
