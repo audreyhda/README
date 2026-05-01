@@ -72,7 +72,7 @@ SwiftUI · Apple Foundation Models (iOS 26+) · Swift Charts · UserDefaults · 
 | **[Tag It iOS](https://github.com/audreyhda/Tag-It)** | SwiftUI · MapKit · URLSession · async/await · JWT |
 | **[Tag It Server](https://github.com/audreyhda/Tag-It-Server)** | Vapor 4 · Fluent · SQLite · JWT · REST API |
 
-📹 [Watch the demo](https://www.balystick.fr/Github/Tag%20It.mp4)
+ [Watch the demo](https://www.balystick.fr/Github/Tag%20It.mp4)
 
 ---
 
@@ -108,7 +108,7 @@ Swift · SwiftUI · Unit tests (XCTest) · UI tests
 
 > Projects from the **Développeur Web** path at OpenClassrooms, building up from HTML/CSS fundamentals to full-stack JavaScript.
 
-### 🛒 [P6 — Piiquante](https://github.com/audreyhda/P6-Piiquante) &nbsp;·&nbsp; *Build a secure API for a hot sauce review app*
+###  [P6 — Piiquante](https://github.com/audreyhda/P6-Piiquante) &nbsp;·&nbsp; *Build a secure API for a hot sauce review app*
 Designed and secured the entire Node.js backend for an Angular frontend. Implemented user auth with bcrypt + JWT, image uploads with Multer, CRUD for sauces, and a like/dislike system. Focus on OWASP security practices.
 
 `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `bcrypt` `Multer` `dotenv`
